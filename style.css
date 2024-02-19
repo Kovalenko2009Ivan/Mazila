@@ -111,14 +111,14 @@ button:active {
   }
 
   .cell {
-      font-size: 20vw;
-  }
-  #result {
       font-size: 30vw;
   }
-  button {
+  #result {
       font-size: 20vw;
-      width: 50%;
+  }
+  button {
+      font-size: 15vw;
+      width: 100%;
       height: 15%;
       line-height: 2em;
   }
@@ -130,14 +130,14 @@ button:active {
   }
  
   .cell {
-      font-size: 15vw;
-  }
-  #result {
       font-size: 25vw;
   }
-  button {
+  #result {
       font-size: 15vw;
-      width: 50%;
+  }
+  button {
+      font-size: 10vw;
+      width: 100%;
       height: 15%;
       line-height: 2em;
   }
@@ -149,14 +149,14 @@ button:active {
   }
 
   .cell {
-      font-size: 10vw;
-  }
-  #result {
       font-size: 20vw;
   }
-  button {
+  #result {
       font-size: 12vw;
-      width: 50%;
+  }
+  button {
+      font-size: 8vw;
+      width: 100%;
       height: 15%;
       line-height: 2em;
   }
@@ -168,14 +168,14 @@ button:active {
   }
 
   .cell {
-    font-size: 7vw;
-}
-#result {
     font-size: 15vw;
 }
+#result {
+    font-size: 8vw;
+}
 button {
-    font-size: 9vw;
-    width: 30%;
+    font-size: 6vw;
+    width: 50%;
     height: 10%;
     line-height: 1.5em;
 }
