@@ -143,12 +143,3 @@ function resetGame() {
 }
 
 renderBoard();
-
-
-
-
-
-
-
-
-
